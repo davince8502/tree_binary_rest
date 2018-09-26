@@ -20,7 +20,9 @@ el repositorio en .zip.
 
 ###  Importar Proyecto
 
-Importar el proyecto Gradle en eclipse, se puede seguir la [guia](http://www.vogella.com/tutorials/EclipseGradle/article.html).
+Importar el proyecto Gradle en eclipse, se puede seguir la [guia](https://www.youtube.com/watch?v=6wFBbXh-Uh4).
+
+Instalar el Plugin Gradle IDE Pack 3.8x y el Plugin Minimalist Gradle Editor 1.0.X
 
 ###  Desplegar Servidor
 
