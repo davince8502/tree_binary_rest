@@ -1,0 +1,11 @@
+rootProject.name = 'tree_binary_api'
+include ':security_rest'
+include ':tree_binary_commons'
+include ':tree_binary_domain'
+include ':tree_binary_business'
+include ':tree_binary_api_rest'
+
+
+
+
+
