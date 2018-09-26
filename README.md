@@ -79,7 +79,7 @@ Se pueden observar los diferentes ENDPOINTS REST configurados.
 
 ### Revisar Configuracion Proyecto
 
-Abrir el archivo `/compras_api_rest/src/main/resources/application.yml` para revisar las propiedades de conexión y seguridad.
+Abrir el archivo `/tree_binary_api_rest/src/main/resources/application.yml` para revisar las propiedades de conexión y seguridad.
 
 Datos de Generación JWT - JSON Web Token
 
