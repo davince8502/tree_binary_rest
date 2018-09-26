@@ -20,7 +20,13 @@ el repositorio en .zip.
 
 ###  Importar Proyecto
 
-Instalar el Plugin Gradle IDE Pack 3.8x y el Plugin Minimalist Gradle Editor 1.0.X
+Instalar los Plugins
+
+	1- Minimalist Gradle Editor 1.0.1
+
+ 	2- Nodeclipse/Enide Gradle for Eclipse 0.17
+
+ 	3- Gradle IDE Pack 3.8.x + 1.0.x
 
 Importar el proyecto Gradle en eclipse, se puede seguir la [guia](https://www.youtube.com/watch?v=6wFBbXh-Uh4).
 
